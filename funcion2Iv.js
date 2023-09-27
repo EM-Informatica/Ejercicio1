@@ -1,0 +1,1 @@
+let controlStock = ['Auto', 'Moto','Perro', 'Gato'];
