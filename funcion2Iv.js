@@ -1,1 +1,1 @@
-let controlStock = ['Auto', 'Moto','Perro', 'Gato'];
+let controlStock = ['Auto', 'Moto','Perro', 'Gato']
