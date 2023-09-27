@@ -1,0 +1,1 @@
+producto = {moto, auto, camioneta}; 
